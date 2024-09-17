@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @yamandagoldi
-- 👀 I’m interested in kpop
-- 🌱 I’m currently learning html, css, js, php
-- 💞️ I’m looking to collaborate on school projects
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm a baddie ba ba baddie baddie pretty little risky baddie
+Olá Clarisse, Emilly, Raissa, Evelliny e Discente Gabriela! Aqui é Amanda (@yamandagoldi) e esse é o repositório do nosso projeto.
 
 <!---
 yamandagoldi/yamandagoldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
