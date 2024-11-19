@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamandagoldi
 - 👀 I’m interested in kpop
-- 🌱 I’m currently learning html, css, js, php
+- 🌱 I’m currently learning html, css, js, php and mysql
 - 💞️ I’m looking to collaborate on school projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm a baddie ba ba baddie baddie pretty little risky baddie
